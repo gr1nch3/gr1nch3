@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Floyd A. Morgan, Jr
-- 👀 I’m interested in Python Django
-- 🌱 I’m currently learning Django, Flutter, and Vuejs 
+- 👀 I’m interested in Python Django, Nuxtjs, Vuejs
+- 🌱 I’m currently learning Flutter, and Reactjs 
 - 😎 I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
