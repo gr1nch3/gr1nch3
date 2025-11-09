@@ -4,8 +4,8 @@ If you appreciate the work I do then consider sponsoring me to do more awesome w
 
 <a href="https://github.com/gr1nch3/github-readme-stats">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gr1nch3&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=dark&bg_color=0e1116&title_color=ffffff&text_color=ffffff&icon_color=1f6feb">
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=gr1nch3&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gr1nch3&hide_title=true&include_all_commits=true&show_icons=true&hide_border=true&theme=dark&bg_color=0e1116&title_color=ffffff&text_color=ffffff&icon_color=1f6feb">
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=gr1nch3&hide_title=true&include_all_commits=true&show_icons=true&hide_border=true">
     </picture>
 </a>
 
