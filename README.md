@@ -1,17 +1,70 @@
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gr1nch3_) [![](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://tiktok.com/@gr1nch3_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@gr1nch3) 
+<a href="https://github.com/gr1nch3/github-readme-stats">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gr1nch3&hide_title=true&langs_count=10&hide_border=true&theme=dark&bg_color=010409&title_color=ffffff&text_color=ffffff&layout=donut-vertical&exclude_repo=babel,metaCube,anatomy">
+        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gr1nch3&hide_title=true&langs_count=10&hide_border=true&layout=donut-vertical&exclude_repo=babel,metaCube,anatomy">
+    </picture>
+</a>
 
-# 💫 About Me:
-👋 Hi, I’m Floyd A. Morgan, Jr<br>👀 I’m interested in Python Django, Nuxtjs, Vuejs, and Flutter<br>🌱 I’m currently learning Golang and lua<br> 😎 I’m looking to collaborate on something cool<br> 📫 How to reach me on my instagram
+&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/gr1nch3_">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gr1nch3/gr1nch3/main/imgs/social/dark/stackoverflow.png">
+        <img src="https://raw.githubusercontent.com/gr1nch3/gr1nch3/main/imgs/social/light/stackoverflow.png" width="42" height="42">
+    </picture>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/gr1nch3">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gr1nch3/gr1nch3/main/imgs/social/dark/linkedin.png">
+        <img src="https://raw.githubusercontent.com/gr1nch3/gr1nch3/main/imgs/social/light/linkedin.png" width="42" height="42">
+    </picture>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/gr1nch3">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gr1nch3/gr1nch3/main/imgs/social/dark/facebook.png">
+        <img src="https://raw.githubusercontent.com/gr1nch3/gr1nch3/main/imgs/social/light/facebook.png" width="42" height="42">
+    </picture>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/gr1nch3_">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gr1nch3/gr1nch3/main/imgs/social/dark/twitter.png">
+        <img src="https://raw.githubusercontent.com/gr1nch3/gr1nch3/main/imgs/social/light/twitter.png" width="42" height="42">
+    </picture>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@gr1nch3">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gr1nch3/gr1nch3/main/imgs/social/dark/youtube.png">
+        <img src="https://raw.githubusercontent.com/gr1nch3/gr1nch3/main/imgs/social/light/youtube.png" width="42" height="42">
+    </picture>
+</a>
+&nbsp;&nbsp;&nbsp;
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![UnoCSS](https://img.shields.io/badge/unocss-333333.svg?style=for-the-badge&logo=unocss&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![PocketBase](https://img.shields.io/badge/pocketbase-%23b8dbe4.svg?style=for-the-badge&logo=Pocketbase&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+<a href="https://github.com/gr1nch3/github-readme-stats">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gr1nch3&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=dark&bg_color=010409&title_color=ffffff&text_color=ffffff&icon_color=1f6feb">
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=gr1nch3&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true">
+    </picture>
+</a>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gr1nch3&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=gr1nch3&theme=dark&hide_border=false) <br/>
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gr1nch3&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+<a href="https://github.com/gr1nch3/github-readme-streak-stats">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=gr1nch3&hide_border=true&theme=dark&background=010409">
+        <img align="left" src="https://github-readme-streak-stats-eight.vercel.app/?user=gr1nch3&hide_border=true">
+    </picture>
+</a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gr1nch3&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<a href="https://github.com/gr1nch3/github-readme-activity-graph">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=gr1nch3&theme=github-dark&area=true&hide_border=true&custom_title=Past%20Months%20Activity&color=ffffff&bg_color=010409">
+        <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=gr1nch3&theme=github-light&area=true&hide_border=true&custom_title=Past%20Months%20Activity">
+    </picture>
+</a>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!---<h3 align="center">
+    <a href="https://www.githubtrends.io/wrapped/gr1nch3">
+        More Stats
+    </a>
+</h3>-->
